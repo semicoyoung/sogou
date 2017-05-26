@@ -15,7 +15,7 @@
 - <a href='http://www.baike.com/wiki/wsdl'>关于wsdl的解释</a>
 
 #### node的项目中的soap模块
-- 可以 npmjs.org中直接搜索soap，了解具体API
+- 可以 npmjs.org中直接搜索<a href='https://www.npmjs.com/package/soap'>soap</a>，了解具体API
 - 在本项目中，需要使用 addSoapHeader 函数，添加 soapHeader,需要注意添加的namespace为：'v1', xmlns为：http://api.sogou.com/sem/common/v1", 具体可参考代码
 
 
