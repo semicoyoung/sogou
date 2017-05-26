@@ -16,6 +16,6 @@
 
 #### node的项目中的soap模块
 - 可以 npmjs.org中直接搜索soap，了解具体API
-- 在本项目中，需要使用 addSoapHeader 函数，添加 soapHeader,需要注意添加的namespace为：'v1', xmlns为： 'http://api.sogou.com/sem/common/v1',具体可参考代码
+- 在本项目中，需要使用 addSoapHeader 函数，添加 soapHeader,需要注意添加的namespace为：'v1', xmlns为：http://api.sogou.com/sem/common/v1", 具体可参考代码
 
 
